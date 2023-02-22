@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import Resume from './pages/Resume';
 
 function LoginForm(props) {
     const [name, setName] = useState('');
@@ -6,9 +7,9 @@ function LoginForm(props) {
     const [message, setMessage] = useState('');
     
     const handleInputChange= (e) => {
-        const { name, value } e.target,
-        const { emailAddress, value } e.target,
-        const { message, value } e.target;
+        const { name, value } = e.target;
+        const { emailAddress, value } = e.target;
+        const { message, value } =e.target;
     };
 
     const handleFormSubmit = (e) => {
@@ -17,6 +18,13 @@ function LoginForm(props) {
         alert(`Hello ${name}`);
         setName('');
     };
-
+    return (
+        // Pull in Resume
+        <div>
+            <p>
+                Hello {name}
+            </p>
+        </div>
+    )
 
 }
