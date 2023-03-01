@@ -5,13 +5,16 @@ export default function Portfolio() {
         <div>
             <h1>Portfolio</h1>
             <p>
-                need to add projects(1)
-                need to add projects(2)
-                need to add projects(3)
-                need to add projects(4)
-                need to add projects(5)
-                need to add projects(6)
-            </p>
+                <ul>
+                    
+                    <li><a href='/Project 1'>Project 1 (Coming Soon!)</a></li>
+                    <li><a href='/Project 2'>Project 2 (Coming Soon!)</a></li>
+                    <li><a href='/Project 3'>Project 3 (Coming Soon!)</a></li>
+                    <li><a href='/Project 4'>Project 4 (Coming Soon!)</a></li>
+                    <li><a href='/Project 5'>Project 5 (Coming Soon!)</a></li>
+                    <li><a href='/Project 6'>Project 6 (Coming Soon!)</a></li>
+                </ul>
+                </p>
         </div>
     );
 }
