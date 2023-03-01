@@ -1,7 +1,7 @@
 # React-Portfolio
 React Challenge
 
-## Decsription
+## Description
 
 As a developer, I need to have a way to show  potential employers not only my achievements and accomplishments,  but also my ability to use React to make a functioning application.
 
