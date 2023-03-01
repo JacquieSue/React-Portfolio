@@ -40,6 +40,8 @@ THEN I receive a notification that this field is required
 WHEN I enter text into the email address field
 THEN I receive a notification if I have entered an invalid email address -->
 
+[Deployed Application](http://localhost:3000/React-Portfolio)
+
 ## Credits
 
 Jacquely Pulliam
