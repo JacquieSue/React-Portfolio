@@ -46,21 +46,19 @@ export default function Portfolio() {
                 </li>
                 <li>
                     <div>
-                        <h3>Hello Wordl Game</h3>
-                        <p>A word-guessing game</p>
+                        <h3>Note-Taker</h3>
                         <ul>
-                            <li><a href="https://github.com/uabcHelloWordl/hello-wordl-game">GitHub Repo</a></li>
-                            <li><a href="https://hello-wordl.herokuapp.com/">Live URL</a></li>
+                            <li><a href="https://github.com/JacquieSue/Note-Taker">GitHub Repo</a></li>
+                            <li><a href="https://whispering-wildwood-85860.herokuapp.com/">Live URL</a></li>
                         </ul>
                     </div>
                 </li>
                 <li>
                     <div>
-                        <h3>Hello Wordl Game</h3>
-                        <p>A word-guessing game</p>
+                        <h3>E-commerce Back-End</h3>
+                        <p>Object-Relational Mapping (ORM)</p>
                         <ul>
-                            <li><a href="https://github.com/uabcHelloWordl/hello-wordl-game">GitHub Repo</a></li>
-                            <li><a href="https://hello-wordl.herokuapp.com/">Live URL</a></li>
+                            <li><a href="https://github.com/JacquieSue/E-commerce-Back-End">GitHub Repo</a></li>
                         </ul>
                     </div>
                 </li>
