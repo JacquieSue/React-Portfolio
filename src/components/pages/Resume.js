@@ -9,7 +9,7 @@ export default function Resume() {
             {/* {loggedIn} ? ( */}
                 <div>
                     <h3>Thank you for visiting!</h3>
-                    <a href='https://drive.google.com/file/d/1ceksYAT0t_o6lC9TwQ7F2-Te1Eo0_-Vy/view?usp=sharing'>View my Resume</a>
+                    <a href='https://docs.google.com/document/d/1htzLFW8VeeEWYq1OaXThzPVQGpI-QVtsTywXOBWNX6w/edit?usp=sharing'>View my Resume</a>
                     <p>
                         Front end:
                         <ul>
