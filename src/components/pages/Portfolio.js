@@ -8,7 +8,7 @@ export default function Portfolio() {
                 <li>
                     <div>
                         <h3>Steamin' and Streamin'</h3>
-                        <p>A feature to help the eater</p>
+                        <p>Collaborated with a team to create an application that allows a user to find randomly generated movies based on a keyword input and find a food recipe based on another keyword input. This was accomplished with the use of APIs from IMDB for movie information and Edamam for food recipes.  While developing this application, our team was able to strengthen our communication and task delegation skills</p>
                         <ul>
                             <li><a href="https://github.com/FarmFreshYeets/Steamin-And-Streamin">GitHub Repo</a></li>
                             <li><a href="https://farmfreshyeets.github.io/Steamin-And-Streamin/">Live URL</a></li>
@@ -18,7 +18,7 @@ export default function Portfolio() {
                 <li>
                     <div>
                         <h3>Hello Wordl Game</h3>
-                        <p>A word-guessing game</p>
+                        <p>Created a full stack, fully functional and interactive web application as a team.  As a group, we agreed on building an application that would stimulate the mind in a fun and challenging new way by modifying a game-concept that was already familiar, and making it our own</p>
                         <ul>
                             <li><a href="https://github.com/uabcHelloWordl/hello-wordl-game">GitHub Repo</a></li>
                             <li><a href="https://hello-wordl.herokuapp.com/">Live URL</a></li>
@@ -28,7 +28,7 @@ export default function Portfolio() {
                 <li>
                     <div>
                         <h3>Work It!</h3>
-                        <p>A workout app to post blogs</p>
+                        <p>A workout app to post blogs(In Progress)</p>
                         <ul>
                             <li><a href="https://github.com/arellanoe/workit-app">GitHub Repo</a></li>
                             <li><a href="https://git.heroku.com/work-your-app-off.git">Live URL</a></li>
@@ -47,6 +47,7 @@ export default function Portfolio() {
                 <li>
                     <div>
                         <h3>Note-Taker</h3>
+                        <p>A simple note-taker application</p>
                         <ul>
                             <li><a href="https://github.com/JacquieSue/Note-Taker">GitHub Repo</a></li>
                             <li><a href="https://whispering-wildwood-85860.herokuapp.com/">Live URL</a></li>
@@ -56,7 +57,7 @@ export default function Portfolio() {
                 <li>
                     <div>
                         <h3>E-commerce Back-End</h3>
-                        <p>Object-Relational Mapping (ORM)</p>
+                        <p>Built a back end for an e-commerce site, and configured an Express API to use Sequelize to interact with a MySQL database.</p>
                         <ul>
                             <li><a href="https://github.com/JacquieSue/E-commerce-Back-End">GitHub Repo</a></li>
                         </ul>
