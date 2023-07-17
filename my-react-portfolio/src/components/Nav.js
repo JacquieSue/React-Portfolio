@@ -7,11 +7,11 @@ export default function Nav() {
     <nav className="main-header-menu">
       <section
         style={{
-          display: 'flex',
+          display: 'flex-end',
           fontFamily: 'helvetica',
-          flexDirection: 'row',
-          alignItems: 'flex-start',
-          justifyContent: 'flex-start',
+          flexDirection: 'column',
+          alignItems: 'flex-end',
+          justifyContent: 'flex-end',
         }}
       >
         <header>
@@ -19,24 +19,24 @@ export default function Nav() {
           <nav className="main-header-menu">
             <section
               style={{
-                display: 'flex',
+                display: 'flex-left',
                 fontFamily: 'helvetica',
                 flexDirection: 'row',
-                alignItems: 'flex-center',
-                justifyContent: 'flex-center',
+                alignItems: 'flex-left',
+                justifyContent: 'flex-left',
               }}
             >
               <div style={linkStyle}>
-                <a href="#">About Me</a>
+                <a href="#AboutMe">About Me</a>
               </div>
               <div style={linkStyle}>
-                <a href="#">Portfolio</a>
+                <a href="#Portfolio">Portfolio</a>
               </div>
               <div style={linkStyle}>
-                <a href="#">Resume</a>
+                <a href="#Resume">Resume</a>
               </div>
               <div style={linkStyle}>
-                <a href="#">Contact</a>
+                <a href="#Contact">Contact</a>
               </div>
             </section>
           </nav>
