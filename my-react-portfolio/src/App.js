@@ -1,28 +1,35 @@
-import React from 'react';
+import React from "react";
+import PortfolioContainer from "./components/PortfolioContainer";
 
-import './App.css';
-import Display from './components/Display'
-import Alert from './components/Alert';
-import Nav from './components/Nav';
+const App = () => <PortfolioContainer />;
 
-import Portfolio from './components/Portfolio'
-import Resume from './components/Resume';
-import AboutMe from './components/AboutMe';
-import Contact from './components/Contact'
+export default App;
 
-const message = 'Invalid user id or password';
-const alertType = "danger"
+// import Form from './components/Form';
+// import Nav from './components/Nav';
+// import Header from './components/Header';
+// import Resume from './components/Resume';
+// import AboutMe from './components/AboutMe';
+// import Projects from './components/Projects';
 
-export default function App() {
-  return (
-    <Alert type={alertType} message={message} />,
-   <div>
-    <Nav />
-    <AboutMe />
-    <Resume />
-    <Portfolio />
-    {/* <Contact /> */}
-   </div>
-  );
-}
+// // import Alert from './components/Alert';
+// // const message = 'Invalid user id or password';
+// // const alertType = "danger"
 
+// export default function App() {
+//   return (
+//     // <Alert type={alertType} message={message} />,
+//    <div>
+//     <Header />
+//     <Nav />
+//     <AboutMe />
+//     <Projects />
+//     <Projects />
+//     <Projects />
+//     <Resume /> 
+//     <Form />
+//    </div>
+//   );
+// }
+
+  

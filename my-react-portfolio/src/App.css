@@ -1,4 +1,17 @@
-.App {
+.header {
+  background: #6472f2;
+  height: 150px;
+}
+
+.header h1 {
+  margin: 0;
+  padding-top: 10px;
+  text-align: left;
+  color: white;
+  font-size: 3rem;
+}
+
+/* .App {
   text-align: 'flex-right';
 }
 
@@ -22,4 +35,4 @@
   to {
     transform: rotate(360deg);
   }
-} */
+} */ 

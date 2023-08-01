@@ -1,0 +1,6 @@
+.nav {
+background-color: blueviolet;
+display: 'flex';
+align-content: end;
+justify-content: end;
+}
